@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Data / generated files
+*.csv
+*.pkl
+
+# Exceptions: keep trained demo model and feature importance if needed
+!src/LightGBM/insane_model.pkl
+!src/LightGBM/feature_importance.png
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
