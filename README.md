@@ -111,15 +111,6 @@ python src/LightGBM/training/train_model.py
 
 ---
 
-## My Contribution
-
-- Hosting and deployment setup
-- Testing and debugging
-- Documentation and repository structuring
-- Integration of system components
-
----
-
 ## Notes
 
-This project was originally developed as part of a university AI course and later refactored and cleaned for portfolio use.
+This project was developed as part of a university team project.
